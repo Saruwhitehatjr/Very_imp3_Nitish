@@ -126,4 +126,3 @@ def train(Train_button_pressed):
 
 def testing():
     print("hello world")
-train("true")
